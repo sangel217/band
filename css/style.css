@@ -1,0 +1,14 @@
+.image {
+  float:none;
+}
+
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column2 {
+  width: 50%;
+  float: left;
+}
